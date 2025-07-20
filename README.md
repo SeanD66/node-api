@@ -8,7 +8,8 @@ Sean Daweng
 
 <h2>Node-API overview</h2>
 <pre>
-Tools: docker
+Tech: Node.js + Express
+Tools: docker, vim(text editor)
 Goal: Containerize a basic Node-API web app
 Skills: Multi-stage builds, Utilizing index.js, and package.json
 </pre>
