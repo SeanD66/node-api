@@ -6,7 +6,7 @@
 Sean Daweng
 </pre>
 
-<h2>
+<h2>Node-API overview</h2>
 <pre>
 Tools: docker
 Goal: Containerize a basic Node-API web app
